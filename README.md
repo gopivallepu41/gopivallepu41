@@ -27,7 +27,7 @@ class Gopi:
     location   = "Hyderabad, India 📍"
     education  = "B.Tech Civil Engineering — Usha Rama College of Engineering & Technology"
     cgpa       = "7.54 / 10"
-    role       = ["Data Analyst", "ML Engineer", "BI Developer"]
+    role       = ["Data Scientist", "ML Engineer", "BI Developer"]
     skills     = ["Python", "SQL", "Machine Learning", "Power BI", "Deep Learning", "NLP"]
     projects   = 4       # end-to-end projects
     records    = "10,000+"  # records processed

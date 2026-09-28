@@ -138,9 +138,13 @@ class Gopi:
 | B.Tech — Civil Engineering | Usha Rama College of Engineering & Technology | 7.54 / 10 |
 
 ### 📜 Certifications
+![Python](https://img.shields.io/badge/Python-Certified-4CAF50?style=for-the-badge&logo=python&logoColor=white)
+![SQL](https://img.shields.io/badge/SQL-Certified-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
+![Power BI](https://img.shields.io/badge/Power%20BI-Certified-F2C811?style=for-the-badge&logo=powerbi&logoColor=black)
+![Machine Learning](https://img.shields.io/badge/Machine%20Learning-Certified-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white)
+![ANN](https://img.shields.io/badge/Artificial%20Neural%20Networks-Certified-D00000?style=for-the-badge&logo=keras&logoColor=white)
+![NLP](https://img.shields.io/badge/NLP-Certified-4CAF50?style=for-the-badge&logo=spacy&logoColor=white)
 ![EDA](https://img.shields.io/badge/Exploratory%20Data%20Analysis-Innomatics%20Research%20Labs-FF6B6B?style=for-the-badge)
-![Python](https://img.shields.io/badge/Python%20Programming-Innomatics%20Research%20Labs-4CAF50?style=for-the-badge)
-![Power BI](https://img.shields.io/badge/Power%20BI%20for%20Business%20Intelligence-Innomatics%20Research%20Labs-F2C811?style=for-the-badge)
 
 </div>
 
